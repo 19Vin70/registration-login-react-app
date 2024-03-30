@@ -9,10 +9,19 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/vector-icons": "^14.0.0",
+    "@react-native-async-storage/async-storage": "^1.23.1",
+    "@react-navigation/native": "^6.1.17",
+    "@react-navigation/stack": "^6.3.29",
+    "axios": "^1.6.8",
+    "body-parser": "^1.20.2",
     "expo": "~50.0.14",
     "expo-status-bar": "~1.11.1",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
     "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react-native": "0.73.6",
+    "react-native-gesture-handler": "^2.16.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
